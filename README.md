@@ -19,4 +19,4 @@ My Home Assistant installation is setup according to the following:
 - [Maintenance](https://github.com/slittorin/home-assistant-maintenance).
   Maintenance of my Home Assistant installation.
 
-All configuration files are pushed to this [GitHub Repository home-assistant-config TBD](https://github.com/slittorin/home-assistant-config) (push, on demand).
+All configuration files are pushed to this [GitHub Repository home-assistant-config](https://github.com/slittorin/home-assistant-config) (push, on demand).
