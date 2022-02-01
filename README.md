@@ -13,7 +13,7 @@ My Home Assistant installation is setup according to the following:
 - [Configuration](https://github.com/slittorin/home-assistant-configuration).
   Configuration of my Home Assistant installation.
   
-- [Visualization TBD]().
+- [Visualization](https://github.com/slittorin/home-assistant-visualization).
   Configuration of visualization in my Home Assistant installation.
   
 - [Maintenance](https://github.com/slittorin/home-assistant-maintenance).
